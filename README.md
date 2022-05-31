@@ -33,3 +33,5 @@ Hasil dari implementasi dari konsep parktikum 8 dengan parktikum 9
 ![7.png](img/7.png)
 
 ![8.png](img/8.png)
+
+Berikut Link Untuk Praktikum 10 PHP OOP. https://github.com/Febriaditiya/Lab10Web
